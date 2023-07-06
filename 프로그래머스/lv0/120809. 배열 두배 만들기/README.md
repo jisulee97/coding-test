@@ -18,6 +18,10 @@ Empty
 
 <p>정수 배열 <code>numbers</code>가 매개변수로 주어집니다. <code>numbers</code>의 각 원소에 두배한 원소를 가진 배열을 return하도록 solution 함수를 완성해주세요.</p>
 
+### 문제 풀이
+1. double 이라는 빈배열을 선언한다
+2. for문을 이용하여 numbers의 배열의 길이만큼 반복문을 돌리도록 한다
+3. double 배열 안에 numbers의 배열에 두배를 곱한 값을 넣어준다
 <hr>
 
 <h5>제한사항</h5>
